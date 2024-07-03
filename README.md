@@ -1,3 +1,10 @@
+
+Preview code running:
+
+![Trabalho-frontend-react-next](https://github.com/mateus-santos28/trabalho-frontend-react-next/assets/47000235/1d3b91cc-e71a-4cae-a0fc-b3ae7e97aa32)
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
